@@ -1,1 +1,1 @@
-This in my nEw File
+This file is in branch-1 and used for merging
